@@ -24,7 +24,7 @@ pip-wheel-metadata/
 # Installer Logs
 pip-log.txt
 pip-delete-this-directory.txt
-
+.pypirc
 # Unit test / Coverage reports
 htmlcov/
 .tox/
