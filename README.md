@@ -3,5 +3,5 @@ A Python library for advanced exploratory data analysis.
 
 ## 📦 Installation
 ```bash
-pip install edapro
+pip install data-sage
 ```
