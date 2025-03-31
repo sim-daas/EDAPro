@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="edapro",
+    name="data_whiz",
     version="0.1.0",
     description="A Python library for easy exploratory data analysis",
     author="aitechman",
