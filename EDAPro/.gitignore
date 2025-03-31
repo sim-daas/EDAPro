@@ -1,0 +1,95 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / Packaging
+.Python
+env/
+venv/
+build/
+dist/
+*.egg-info/
+*.egg
+*.eggs
+*.wheel
+*.manifest
+pip-wheel-metadata/
+*.dist-info
+
+# Installer Logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / Coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Environments
+.env
+.venv
+env.bak/
+venv.bak/
+
+# PyInstaller
+*.spec
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pytest
+.pytest_cache/
+__snapshots__/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IDEs
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Pylint
+pylint-report.txt
+pylint.log
+
+# Build artifacts
+*.log
+*.bak
+*.swp
+*.tmp
+
+# Documentation
+docs/_build/
+
+# Local configuration files
+*.local
